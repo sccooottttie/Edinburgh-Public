@@ -1,0 +1,16 @@
+{
+  "name": "edinburgh",
+  "version": "1.0.0",
+  "description": "Edinburgh's Discord Bot.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "sccooottttie",
+  "license": "ISC",
+  "dependencies": {
+    "common-tags": "^1.8.0",
+    "discord.js": "^12.1.1",
+    "ms": "^2.1.2"
+  }
+}
