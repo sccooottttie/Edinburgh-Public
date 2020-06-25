@@ -2,8 +2,6 @@ const Discord = require('discord.js');
 const bot = new Discord.Client();
 const token = "";
 var version = '3.0.5';
-// BOT CLIENT ID = 694585603773300747
-// BOT INVITE LINK = https://discordapp.com/oauth2/authorize?client_id=694585603773300747&scope=bot&permissions=8
 
 const PREFIX = '!';
 
